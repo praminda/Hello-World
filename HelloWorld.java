@@ -2,7 +2,7 @@ public class HelloWorld {
 	private String hw;
 	
 	public HelloWorld() {
-		hw = "Hello World!";
+		hw = "Hello World! \n pull request success";
 	}
 	
 	public HelloWorld(String hw) {
